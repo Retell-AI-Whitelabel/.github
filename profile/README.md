@@ -2,7 +2,13 @@
 
 ## Instantly launch your business with our all-in-one platform. It's never been easier to **make an agency with Retell**.
 
-![A banner showing the Voicerr.ai and Retell AI logos with the text "Your Retell AI Whitelabel Solution"](https://via.placeholder.com/1200x400.png?text=Your+Complete+Retell+AI+Whitelabel+Platform)
+![Group 27](https://github.com/user-attachments/assets/bbe4a6aa-4e40-459c-ad0e-f5cc40a4a110)
+
+## AI Powered Assistant Creator
+
+You and your clients can create assistants with text prompts instead of tuning each and every parameter from scratch which saves a lot of your and your clients valuable time:
+
+https://github.com/user-attachments/assets/16154e9c-75fd-449c-afdc-e132b5e58622
 
 ## Want to Sell Retell Bots? Voicerr.ai is the Answer.
 
@@ -10,11 +16,7 @@
 
 We handle the complex infrastructure so you can focus on what matters: growing your brand and your revenue.
 
-<!-- 
-  TODO: Create a compelling GIF or short video.
-  It should demonstrate the seamless experience: logging into a custom-branded portal, managing a Retell AI agent, and reviewing call analytics.
--->
-[Placeholder for a video showing how easy it is to manage and sell Retell bots using the Voicerr.ai platform]
+https://github.com/user-attachments/assets/839dce2b-535b-45a3-9eac-109171ff820f
 
 ## Everything You Need to Sell Retell Bots at Scale 🚀
 
@@ -26,8 +28,6 @@ Your brand deserves to be front and center. Our platform allows you to present p
 ### Harness the Full Power of Retell AI
 Integrate with Retell AI's industry-leading low-latency voice bots. Configure highly responsive, human-like agents for any scenario—from sales and lead qualification to customer service. This high-quality experience provides incredible value, making it easier for you to **sell Retell bots** to discerning clients.
 
-![An image of the beautiful, user-friendly client dashboard with custom agency branding.](https://via.placeholder.com/800x450.png?text=Your+Custom-Branded+Client+Portal)
-
 ### Powerful No-Code Workflows to Increase Value
 Stop paying for separate automation tools. Our integrated workflow builder comes with pre-built templates for CRMs like GoHighLevel and Hubspot, and apps like Google Calendar. This makes your offering more valuable than just a simple bot, helping you stand out and **sell Retell bots** at a premium.
 
@@ -36,8 +36,6 @@ Scaling is simple with Voicerr.ai. You can add **unlimited clients** and create 
 
 ### Go-to-Market Faster: Built-in Leads & Campaigns
 Don't just build the bots, find the customers to sell them to! Our platform includes a lead finder to discover new prospects. Your clients can then use the built-in campaign manager to run sophisticated outbound calling campaigns, creating a complete, end-to-end solution they'll love.
-
-![Screenshot of the powerful Outbound Calling Campaign scheduler for Retell AI bots.](https://via.placeholder.com/800x450.png?text=Retell+AI+Outbound+Campaign+Manager)
 
 ## Build a Profitable Business When You Sell Retell Bots 💰
 
